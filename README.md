@@ -1,4 +1,5 @@
-# WordCrafterPro-
+# WordCrafterPro-大学英语等级考试
+练习阅读能力
 基于 CustomTkinter 与大语言模型的智能英语语境工坊：支持情境短文定制（200~1000字）、二次元 ACG 特稿随笔、经典名篇原著精读、动效卡片流生词库及微软必应免 Key 即时划词翻译。
 # 📖 WordCrafter Pro - 英语情境短文、ACG 特稿与原著精读工坊
 
