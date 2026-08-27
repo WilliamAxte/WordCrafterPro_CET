@@ -64,3 +64,7 @@ cd WordCrafterPro
 
 # 安装依赖
 pip install customtkinter -i [https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
+
+# 启动
+python main.py
+
