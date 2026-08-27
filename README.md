@@ -20,6 +20,8 @@
 > **💡 设计哲学 (Design Philosophy)**  
 > 语言习得不应是孤立枯燥的机械抽认，而应置身于优美且生动的语境中[cite: 9]。**WordCrafter Pro** 将前沿大语言模型（LLM）的生成能力、地道语篇精读与操作系统底层媒体总线融合[cite: 4, 7]，在拟真微光磨砂面板与悠扬旋律中，重塑双语输入与情境记忆体验[cite: 1, 8]。
 
+<img width="929" height="725" alt="image" src="https://github.com/user-attachments/assets/2b72c95f-a0b7-4f16-ae49-707b3b4db2ec" />
+
 ---
 
 ## 💎 核心特性
@@ -66,6 +68,8 @@
     </td>
   </tr>
 </table>
+
+<img width="927" height="727" alt="image" src="https://github.com/user-attachments/assets/1cc55a5e-8a2e-4d14-9105-111d4e55cf0c" />
 
 ---
 
