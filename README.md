@@ -70,7 +70,7 @@ WordCrafter Pro 面向真正需要长期积累的人：把 AI 生成的上下文
 - 每日新词上限、到期优先、复习日志与学习计划
 
 ### 多源词典与离线容错
-（词典项目支持https://github.com/KyleBing/english-vocabulary）
+
 - 在线词典结果进入本地缓存，减少重复请求。
 - 支持导入 TXT/JSON 词典和词书，适合自建词库。
 - 在线服务不可用时自动保留本地查询路径。
@@ -174,6 +174,8 @@ app/
 ├─ build.spec              # PyInstaller 配置
 └─ installer.iss           # Inno Setup 配置
 ```
+
+词典项目支持https://github.com/KyleBing/english-vocabulary
 
 ## License
 
