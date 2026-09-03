@@ -26,6 +26,10 @@ WordCrafter Pro 面向真正需要长期积累的人：把 AI 生成的上下文
 
 它是一款原生 Windows 桌面应用，也是一套可以从源码审阅、测试、打包和扩展的工程化产品。
 
+<img width="991" height="680" alt="image" src="https://github.com/user-attachments/assets/db319e56-e797-49cf-9e0b-ec902eafab6e" />
+
+
+
 ## 技术力一览
 
 | 层 | 实现 | 解决的问题 |
@@ -72,9 +76,15 @@ WordCrafter Pro 面向真正需要长期积累的人：把 AI 生成的上下文
 - 在线服务不可用时自动保留本地查询路径。
 - 词典、发音、翻译等外部服务均为可选能力，不阻塞本地复习。
 
+<img width="985" height="680" alt="image" src="https://github.com/user-attachments/assets/46277fe1-25f9-4f11-9efd-3b73b804c02c" />
+
+
 ### 可选的局域网 Web 工作台
 
 桌面端启动本地 Web 服务后，可以在同一局域网的手机或平板继续查看总览、生词库、学习计划、复习队列和历史记录。接口使用 Token 保护，前端与桌面端共享同一份状态仓储。
+
+<img width="986" height="685" alt="image" src="https://github.com/user-attachments/assets/13021a93-e95e-4104-b7c4-20039988d3b4" />
+
 
 ## 架构总览
 
